@@ -1,0 +1,611 @@
+/* css for basic capital */
+
+#container {
+	 border:0px solid red;
+	 min-height:100px;
+	 
+}
+
+#face {
+	border:0px solid red;
+	 height:50px;
+	 background-color:rgba(0,0,160,0.8);
+	 position:sticky;
+	 top:0px;
+	 z-index:10;
+}
+
+#nav {
+		list-style-type:none;
+		margin-bottom:30px;
+		display:inline-block;
+		position:absolute;
+	    top:0px;
+		left:40px;
+		
+}
+ 
+ #nav li {
+	         display:inline-block;
+			 border:1px solid gray;
+			 border-radius:15px;
+			 margin:10px
+			 
+	 
+}
+
+
+
+#nav li a{
+		text-decoration:none;
+		padding:20px;
+		color:White;
+		font-family:Tahoma;
+}
+
+#top {
+	 background-image:url( "../images/pro2main.jpg" );
+	 background-size:cover;
+	 border:0px solid blue;
+	 height:700px;
+	 
+	 
+	 
+	 
+}
+
+.logo {
+		height:70px;
+		background-color:blue;
+		margin-right:10px;
+		display:inline-block;
+		position:absolute;
+		top:0px;
+		
+}
+
+
+
+#minih {
+		background-color:rgba(255,255,255,0.8);
+		position:relative;
+		top:120px;
+		width:80%;
+		border-left:5px solid gray;
+		
+}
+
+#minip {
+		background-color:rgba(255,255,255,0.8);
+		position:relative;
+		top:120px;
+		width:80%;
+		border-left:5px solid gray;
+		
+}
+
+#mbutton{
+		
+		position:relative;
+		top:120px;
+		
+}
+
+button {
+	    background-color:rgb(0,0,160);
+		font-family:Tahoma;
+		font-size:20px;
+		margin:30px;
+		padding:15px;
+		border-radius:20px;
+		
+		
+}
+
+button a {
+		text-decoration:none;
+		color:white;
+}
+
+
+h1 {
+		font-size:60px;
+		font-family:Tahoma;
+		margin:30px;
+		color:rgb(0,0,160);
+}
+
+p {
+		font-size:20px;
+		font-family:Tahoma;
+		margin:30px;
+		color:rgb(0,0,160);
+}
+
+
+#top2 {
+	  border:0px solid black;
+	  min-height:100px;
+	  padding:30px;
+	
+}
+
+#minitop2 {
+	  border:0px solid black;
+	  min-height:100px;
+	  width:47%;
+	  padding:10px;
+	  float:left;
+	
+}
+
+#minitop3 {
+	  border:0px solid black;
+	  height:403px;
+	  width:47%;
+	  padding:10px;
+	  float:left;
+	  
+	  
+}
+
+.clearfloat {
+		clear:both;
+}
+
+#top3 {
+	  border:0px solid black;
+	  min-height:100px;
+	  padding:10px;
+}
+
+.mid {
+	 text-align:center;
+}	  
+
+#top4 {
+	  border:0px solid black;
+	  min-height:100px;
+}
+
+
+#bottom1 {
+	  border:0px solid black;
+	  min-height:100px;
+	  
+	  
+}
+
+#bottom2 {
+	  border:0px solid black;
+	  min-height:50px;
+	  background-color:black;
+	  padding:10px;
+	  color:white
+	  
+	  
+}
+
+#bot1 {
+	  border:0px solid black;
+	  height:467px;
+	  width:33.3%;
+	  background-color:gray;
+	  
+	  
+	  
+}
+
+
+#bot2 {
+	  border:0px solid black;
+	  height:467px;
+	 width:33.3%;
+	 background-color:gray;
+}
+
+
+#bot3 {
+	  border:0px solid black;
+	  height:467px;
+	  width:33.3%;
+	  background-color:gray;
+	  
+	
+}
+
+.class {
+		margin-left:20px;
+		position:relative;
+		left:40px;
+	 
+}
+
+#top41 {
+	  border:0px solid black;
+	  width:24.8%;
+	  height:245px;
+}
+
+#top42 {
+	 border:0px solid black;
+	  width:24.8%;
+	  min-height:100px;
+}
+
+#top43 {
+	 border:0px solid black;
+	  width:24.8%;
+	  height:245px;
+	  
+}
+
+#top44 {
+		border:0px solid black;
+	  width:25%;
+	  height:245px;
+}
+
+#upper {
+			 background-image:url('../images/pro2main2.jpg');
+			 background-size:cover;
+	         border:1px solid blue;
+	         height:500px;
+		 }
+#upper1 {
+		position:relative;
+		top:300px;
+		left:450px;
+		background-color:rgba(255,255,255,0.8);
+		width:300px;
+		border-left:3px solid gray;
+}	
+
+#upper2 {
+		position:relative;
+		top:300px;
+		left:400px;
+		background-color:rgba(255,255,255,0.8);
+		width:400px;
+		border-left:3px solid gray;
+}	 
+
+h3 {
+		font-family:Tahoma;
+		font-size:40px;
+		color:gray;
+}
+
+#cont {
+		     background-image:url('../images/pro2main2.jpg');
+			 background-size:cover;
+	         border:1px solid blue;
+	         height:500px;
+}
+
+#cont1 {
+		position:relative;
+		top:300px;
+		left:450px;
+		background-color:rgba(255,255,255,0.8);
+		width:380px;
+		border-left:3px solid gray;
+}	
+
+#cont2 {
+		position:relative;
+		top:300px;
+		left:450px;
+		background-color:rgba(255,255,255,0.8);
+		width:380px;
+		border-left:3px solid gray;
+}
+
+#form {
+		border:0px solid green;
+		min-height:100px;
+		margin-left:20px;
+		width:57%;
+}	
+
+#address {
+		border:0px solid green;
+		height:570px;
+		width:39.8%;
+		
+}	
+
+#contact {
+		border:0px solid green;
+		height:200px;
+		
+}
+
+#add1 {
+		border:0px solid blue;
+		height:350px;
+}
+
+#add2 {
+		border:0px solid blue;
+		height:268px;
+}
+
+.submit {
+		padding:20px;
+		width:520px;
+		background-color:rgb(0,0,160);
+		color:white;
+}
+
+[name='name'] {
+		padding:20px;
+}
+
+#strategy {
+			background-image:url('../images/pro2.jpg');
+			 background-size:cover;
+	         border:1px solid blue;
+	         height:500px;
+}
+
+.strat {
+		padding:50px;
+}
+
+.chan {
+		padding:50px;
+}
+
+#us h2 {
+		font-size:40px;
+		color:gray;
+}
+
+#us ul li {
+		font-size:20px;
+		color:gray;
+}
+
+.twit {
+		position:relative;
+		top:5px;
+		left:800px;
+}
+
+
+@media (min-width:320px) and (max-width:480px) {
+		 
+		 #top {
+			 background-size:cover;
+		     height:700px;
+	 
+		 }
+		 
+		 
+		 
+		 #nav li a {
+			 display:inline-block;
+			 padding:0px;
+			 font-size:10px;
+			 
+		 }
+		 
+		 .logo {
+			 height:60px;
+		 }
+		 
+		 #face {
+			 height:60px;
+		 }
+		 
+		 #nav li {
+			 display:inline-block;
+			 margin:0px;
+			 
+			 
+		 }
+		 
+		 h1 {
+			 font-size:30px;
+			 font-family:Tahoma;
+			 margin:20px;
+			 color:rgb(0,0,160);
+         
+		 }
+		 
+		 p {
+			 font-size:15px;
+			 font-family:Tahoma;
+			 margin:20px;
+			 color:rgb(0,0,160);
+		 
+		 }
+		 
+		 #top2 {
+		 border:0px solid black;
+		 min-height:50px;
+		 padding:5px;
+	
+	     }
+		 
+		 #minitop2 {
+		 border:0px solid black;
+		 min-height:50px;
+		 width:100%;
+		 padding:0px;
+	
+         }
+		 
+		 .image {
+		 width:300px;
+		 
+	
+         }
+		 
+		 #minitop3 {
+		 border:0px solid black;
+		 min-height:50px;
+		 width:100%;
+		 padding:0px;
+	  
+	  
+}
+		 .text1 {
+		 width:280px;
+		 
+	
+         }
+		 
+		 button {
+			 background-color:rgb(0,0,160);
+			 font-family:Tahoma;
+			 font-size:15px;
+			 margin:10px;
+			 padding:5px;
+			 border-radius:20px;
+		
+		
+	     }
+		 
+	     #top4 {
+			 min-height:50px;
+			 
+		 }
+		 
+		 #top41 {
+			 min-height:50px;
+			 width:100%;
+		 }
+		 
+		 #top42 {
+			 min-height:50px;
+			 width:100%;
+		 }
+		 
+		 #top43 {
+			 min-height:50px;
+			 width:100%;
+		 }
+		 
+		 #top44 {
+			 min-height:50px;
+			 width:100%;
+		 }
+		 
+		 #bot1 {
+			 height:350px;
+			 width:100%;
+		     background-color:gray;
+	     }
+		 
+		 #bot2 {
+			 height:350px;
+			 width:100%;
+			 background-color:gray;
+		 }
+		 
+		 #bot3 {
+			 height:350px;
+			 width:100%;
+			 background-color:gray;
+		 }
+		 
+		 #bottom2 {
+			 min-height:50px;
+			 background-color:black;
+			 padding:5px;
+			 color:white
+	     }
+		 
+		 .twit {
+			 position:relative;
+			 top:5px;
+			 left:40px;
+			 width:15px;
+		 }
+		 
+		 .bott {
+			 font-size:10px;
+		 }
+		 
+		 #upper1 {
+			 position:relative;
+			 top:300px;
+			 left:40px;
+			 width:150px;
+			 border-left:3px solid gray;
+		 }
+		 
+		 #upper2 {
+			 position:relative;
+			 top:300px;
+			 left:0px;
+			 width:275px;
+			 border-left:3px solid gray;
+		 }
+		 
+		 #cont1 {
+			 position:relative;
+			 top:300px;
+			 left:40px;
+			 width:170px;
+			 border-left:3px solid gray;
+		 }	
+
+		 #cont2 {
+			 position:relative;
+			 top:300px;
+			 left:0px;
+			 width:270px;
+			 border-left:3px solid gray;
+		 }
+		 
+		 #add1 {
+			 border:0px solid blue;
+			 height:250px;
+			 width:100%;
+		 }
+
+		 #add2 {
+			 border:0px solid blue;
+			 height:200px;
+			 width:100%;
+			 
+		 }
+		 
+		 .locat {
+			 width:100%;
+			 height:150;
+		 }
+		 
+		 #address {
+			 
+			 height:500px;
+			 width:100%;
+		 }
+		 
+		 .submit {
+			 padding:5px;
+			 width:260px;
+			 
+		 }
+		 
+		 [name='name'] {
+			 padding:5px;
+			 width:250px;
+		 }
+		 
+		 .info {
+			 font-size:14px;
+		 }
+		 
+		 .mobile {
+			 width:260px;
+		 }
+		 
+		 .pagelogo {
+			 width:150px;
+		 }
+		 
+}		 
